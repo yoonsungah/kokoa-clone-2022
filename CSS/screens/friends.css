@@ -28,6 +28,13 @@
   justify-content: space-between;
   color: rgba(0, 0, 0, 0.5);
 }
+.friends-screen__channel-header i{
+  transition: 0.2s;
+}
+.friends-screen__channel-header .on{
+  transform: rotate(180deg);
+}
+
 
 @keyframes hideSplashScreen {
   from {

@@ -67,3 +67,14 @@
   margin-left: 5px;
   color: tomato;
 }
+
+/* Channel Fold */
+.fold{
+  overflow: hidden;
+  height: 0px;
+  transition: .5s;
+  /* background-color: yellowgreen; */
+}
+.on2{
+  height: 100px;
+}
