@@ -1,5 +1,5 @@
 .welcome-header {
-  padding: 90px 0px;
+  margin: 90px 0px;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -45,9 +45,6 @@
   border-radius: 5px;
   cursor: pointer;
   padding: 20px 0px;
-}
-#login-form input[type="submit"]:hover {
-  background-color: #e8d100;
 }
 
 #login-form a {
