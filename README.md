@@ -13,6 +13,7 @@
 #### 프로젝트 기여도 : 100% (개인 작업)
 
 #### 프로젝트 URL : [Click here !](https://yoonsungah.github.io/kokoa-clone-2022/friends.html)
+**링크 방문 시 화면 가로 크기를 줄여주세요 **
 
 ## **페이지 구성**
 
