@@ -1,4 +1,4 @@
-# **Clone coding** Kokoa Talk 💛
+# **Clone Coding** Kokoa Talk 💛
 
 코코아톡은 카카오톡을 클론코딩 진행한 사이트 입니다. HTML5와 CSS3의 이해를 높이기 위해 진행했으며, Java Script로 눈 내리는 채팅방 기능을 구현했습니다. 친구 목록을 펼치는 기능은 jQuery를 활용했습니다.
 
